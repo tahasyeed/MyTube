@@ -8,7 +8,7 @@
     "dev": "nodemon src/index.js"
   },
   "keywords": [
-    "youtube"
+    "youtube, javascript, backend"
   ],
   "author": "Taha Syeed",
   "license": "ISC",
