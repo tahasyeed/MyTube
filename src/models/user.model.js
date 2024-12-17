@@ -30,7 +30,7 @@ const userSchema = new Schema(
           
         },
         avatar: {
-            type: String, // getting images fromcloudinary url
+            type: String, // getting images from cloudinary url
             required: true,
             trim: true,
             index: true
